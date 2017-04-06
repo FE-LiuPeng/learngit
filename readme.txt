@@ -1,3 +1,2 @@
-git add
-git commit
-git init
+Git is a version control system.
+Git is free software.
